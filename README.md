@@ -27,4 +27,4 @@ This landing page leverages two powerful plugins:
 
 ### Video Link
 For a walkthrough of the PS Monk landing page, check out the following video:
-[Watch the PS Monk Landing Page Video](https://example.com/your-video-link)
+(https://vimeo.com/1072993538?share=copy)
